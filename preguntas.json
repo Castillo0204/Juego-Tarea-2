@@ -1,0 +1,242 @@
+[
+  {
+    "categoria": "Geografía",
+    "dificultad": "fácil",
+    "pregunta": "¿Cuál es la capital de Australia?",
+    "opciones": ["Sídney", "Melbourne", "Canberra", "Perth"],
+    "correcta": 2,
+    "explicacion": "Sídney es la ciudad más grande, pero Canberra se construyó a propósito como capital en un punto intermedio entre Sídney y Melbourne."
+  },
+  {
+    "categoria": "Geografía",
+    "dificultad": "fácil",
+    "pregunta": "¿Cuál es el océano más grande del planeta?",
+    "opciones": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+    "correcta": 3,
+    "explicacion": "El Pacífico cubre cerca de un tercio de la superficie de la Tierra, más que toda la tierra firme junta."
+  },
+  {
+    "categoria": "Geografía",
+    "dificultad": "media",
+    "pregunta": "¿Cuál es el país más pequeño del mundo por superficie?",
+    "opciones": ["Mónaco", "Ciudad del Vaticano", "San Marino", "Liechtenstein"],
+    "correcta": 1,
+    "explicacion": "Tiene unas 44 hectáreas, menos que muchos parques urbanos, y está dentro de la ciudad de Roma."
+  },
+  {
+    "categoria": "Geografía",
+    "dificultad": "media",
+    "pregunta": "¿Cuál es el único país de Centroamérica que no tiene costa en el mar Caribe?",
+    "opciones": ["Guatemala", "Honduras", "El Salvador", "Nicaragua"],
+    "correcta": 2,
+    "explicacion": "El Salvador solo tiene litoral en el océano Pacífico; los demás países de la región tocan el Caribe."
+  },
+  {
+    "categoria": "Geografía",
+    "dificultad": "difícil",
+    "pregunta": "¿Cuál es la capital de Kazajistán?",
+    "opciones": ["Almaty", "Taskent", "Biskek", "Astaná"],
+    "correcta": 3,
+    "explicacion": "Almaty fue la capital hasta 1997. La ciudad se llamó Nur-Sultán entre 2019 y 2022, y luego recuperó el nombre de Astaná."
+  },
+  {
+    "categoria": "Historia",
+    "dificultad": "fácil",
+    "pregunta": "¿En qué año llegó Cristóbal Colón por primera vez a América?",
+    "opciones": ["1492", "1453", "1519", "1607"],
+    "correcta": 0,
+    "explicacion": "Colón desembarcó en una isla de las Bahamas el 12 de octubre de 1492, buscando una ruta hacia Asia."
+  },
+  {
+    "categoria": "Historia",
+    "dificultad": "fácil",
+    "pregunta": "¿Qué civilización construyó la ciudadela de Machu Picchu?",
+    "opciones": ["Maya", "Azteca", "Olmeca", "Inca"],
+    "correcta": 3,
+    "explicacion": "Machu Picchu se levantó en los Andes peruanos hacia el siglo XV, durante el apogeo del Imperio inca."
+  },
+  {
+    "categoria": "Historia",
+    "dificultad": "media",
+    "pregunta": "¿En qué año cayó el Muro de Berlín?",
+    "opciones": ["1961", "1989", "1991", "1975"],
+    "correcta": 1,
+    "explicacion": "El muro se abrió el 9 de noviembre de 1989 y fue un símbolo del fin de la Guerra Fría. Alemania se reunificó en 1990."
+  },
+  {
+    "categoria": "Historia",
+    "dificultad": "media",
+    "pregunta": "¿En qué año se independizó Centroamérica de España?",
+    "opciones": ["1810", "1898", "1838", "1821"],
+    "correcta": 3,
+    "explicacion": "El Acta de Independencia se firmó el 15 de septiembre de 1821, la fecha que hoy se celebra en la región."
+  },
+  {
+    "categoria": "Historia",
+    "dificultad": "difícil",
+    "pregunta": "¿Qué dinastía china construyó la mayor parte de la Gran Muralla que se conserva hoy?",
+    "opciones": ["Han", "Ming", "Tang", "Qing"],
+    "correcta": 1,
+    "explicacion": "Aunque hubo muros desde mucho antes, los tramos más famosos y mejor conservados son de la dinastía Ming (siglos XIV a XVII)."
+  },
+  {
+    "categoria": "Ciencia",
+    "dificultad": "fácil",
+    "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+    "opciones": ["Venus", "Marte", "Mercurio", "Tierra"],
+    "correcta": 2,
+    "explicacion": "Mercurio es también el planeta más pequeño del sistema solar y da una vuelta al Sol en solo 88 días."
+  },
+  {
+    "categoria": "Ciencia",
+    "dificultad": "fácil",
+    "pregunta": "¿Qué gas absorben las plantas del aire para hacer la fotosíntesis?",
+    "opciones": ["Oxígeno", "Dióxido de carbono", "Nitrógeno", "Hidrógeno"],
+    "correcta": 1,
+    "explicacion": "Con la luz del sol, las plantas convierten el CO₂ y el agua en azúcares, y liberan oxígeno como \"desecho\"."
+  },
+  {
+    "categoria": "Ciencia",
+    "dificultad": "media",
+    "pregunta": "¿Cuál es el símbolo químico del oro?",
+    "opciones": ["Ag", "Go", "Au", "Or"],
+    "correcta": 2,
+    "explicacion": "Viene del latín aurum. Ag es la plata (argentum)."
+  },
+  {
+    "categoria": "Ciencia",
+    "dificultad": "media",
+    "pregunta": "¿Cuántos huesos tiene el cuerpo de una persona adulta?",
+    "opciones": ["206", "150", "256", "312"],
+    "correcta": 0,
+    "explicacion": "Los bebés nacen con más de 270 huesos, pero muchos se fusionan al crecer."
+  },
+  {
+    "categoria": "Ciencia",
+    "dificultad": "difícil",
+    "pregunta": "¿Cuál es el pH aproximado del agua pura a 25 °C?",
+    "opciones": ["5", "9", "7", "14"],
+    "correcta": 2,
+    "explicacion": "El 7 es neutro: por debajo es ácido (como el limón) y por encima es básico (como el jabón)."
+  },
+  {
+    "categoria": "Arte y Literatura",
+    "dificultad": "fácil",
+    "pregunta": "¿Quién pintó la Mona Lisa?",
+    "opciones": ["Miguel Ángel", "Leonardo da Vinci", "Rafael", "Botticelli"],
+    "correcta": 1,
+    "explicacion": "La pintó a principios del siglo XVI y hoy se exhibe en el Museo del Louvre, en París."
+  },
+  {
+    "categoria": "Arte y Literatura",
+    "dificultad": "fácil",
+    "pregunta": "¿Quién escribió Don Quijote de la Mancha?",
+    "opciones": ["Lope de Vega", "Quevedo", "Miguel de Cervantes", "Calderón de la Barca"],
+    "correcta": 2,
+    "explicacion": "La primera parte salió en 1605 y se considera una de las primeras grandes novelas modernas."
+  },
+  {
+    "categoria": "Arte y Literatura",
+    "dificultad": "media",
+    "pregunta": "¿Quién escribió Cien años de soledad?",
+    "opciones": ["Gabriel García Márquez", "Mario Vargas Llosa", "Julio Cortázar", "Pablo Neruda"],
+    "correcta": 0,
+    "explicacion": "La novela, publicada en 1967, cuenta la historia de la familia Buendía en el pueblo ficticio de Macondo."
+  },
+  {
+    "categoria": "Arte y Literatura",
+    "dificultad": "media",
+    "pregunta": "¿Qué pintor creó La noche estrellada?",
+    "opciones": ["Claude Monet", "Pablo Picasso", "Salvador Dalí", "Vincent van Gogh"],
+    "correcta": 3,
+    "explicacion": "La pintó en 1889 desde su habitación en un hospital psiquiátrico en Saint-Rémy, Francia."
+  },
+  {
+    "categoria": "Arte y Literatura",
+    "dificultad": "difícil",
+    "pregunta": "¿Qué escritor salvadoreño es autor de Cuentos de barro?",
+    "opciones": ["Roque Dalton", "Salarrué", "Claudia Lars", "Manlio Argueta"],
+    "correcta": 1,
+    "explicacion": "Salarrué (Salvador Salazar Arrué) publicó Cuentos de barro en 1933, una obra clave de la literatura salvadoreña."
+  },
+  {
+    "categoria": "Entretenimiento",
+    "dificultad": "fácil",
+    "pregunta": "¿Cómo se llama el colegio de magia donde estudia Harry Potter?",
+    "opciones": ["Beauxbatons", "Durmstrang", "Ilvermorny", "Hogwarts"],
+    "correcta": 3,
+    "explicacion": "Beauxbatons y Durmstrang son otras escuelas de magia que aparecen en la saga, en el torneo de los Tres Magos."
+  },
+  {
+    "categoria": "Entretenimiento",
+    "dificultad": "fácil",
+    "pregunta": "¿Qué personaje de videojuegos es un fontanero con gorra roja y bigote?",
+    "opciones": ["Sonic", "Link", "Super Mario", "Pac-Man"],
+    "correcta": 2,
+    "explicacion": "Mario apareció por primera vez en 1981 en el juego Donkey Kong, aunque entonces se llamaba \"Jumpman\"."
+  },
+  {
+    "categoria": "Entretenimiento",
+    "dificultad": "media",
+    "pregunta": "¿Quién dirigió la película Pulp Fiction (1994)?",
+    "opciones": ["Martin Scorsese", "Quentin Tarantino", "Steven Spielberg", "Christopher Nolan"],
+    "correcta": 1,
+    "explicacion": "La película ganó la Palma de Oro en Cannes y es famosa por contar su historia fuera de orden cronológico."
+  },
+  {
+    "categoria": "Entretenimiento",
+    "dificultad": "media",
+    "pregunta": "¿De qué país es el grupo musical ABBA?",
+    "opciones": ["Noruega", "Suecia", "Reino Unido", "Dinamarca"],
+    "correcta": 1,
+    "explicacion": "El nombre sale de las iniciales de sus cuatro integrantes: Agnetha, Björn, Benny y Anni-Frid. Ganaron Eurovisión en 1974 con \"Waterloo\"."
+  },
+  {
+    "categoria": "Entretenimiento",
+    "dificultad": "difícil",
+    "pregunta": "¿Quién es el diseñador de videojuegos que creó a Mario y a Zelda?",
+    "opciones": ["Hideo Kojima", "Satoru Iwata", "Shigeru Miyamoto", "Masahiro Sakurai"],
+    "correcta": 2,
+    "explicacion": "Miyamoto trabaja en Nintendo desde 1977. Kojima creó Metal Gear y Sakurai creó Kirby y Smash Bros."
+  },
+  {
+    "categoria": "Deportes",
+    "dificultad": "fácil",
+    "pregunta": "¿Cuántos jugadores de cada equipo están en la cancha en un partido de fútbol, contando al portero?",
+    "opciones": ["9", "10", "12", "11"],
+    "correcta": 3,
+    "explicacion": "Cada equipo juega con once: diez jugadores de campo y un portero."
+  },
+  {
+    "categoria": "Deportes",
+    "dificultad": "fácil",
+    "pregunta": "¿Cada cuántos años se celebran los Juegos Olímpicos de verano?",
+    "opciones": ["2", "3", "4", "5"],
+    "correcta": 2,
+    "explicacion": "Ese ciclo de cuatro años se llama \"olimpiada\" y viene de la tradición de la antigua Grecia."
+  },
+  {
+    "categoria": "Deportes",
+    "dificultad": "media",
+    "pregunta": "¿Qué selección ganó el Mundial de fútbol de Catar 2022?",
+    "opciones": ["Francia", "Brasil", "Croacia", "Argentina"],
+    "correcta": 3,
+    "explicacion": "Argentina venció a Francia en la final, definida en penales tras un 3-3, y ganó su tercera Copa del Mundo."
+  },
+  {
+    "categoria": "Deportes",
+    "dificultad": "media",
+    "pregunta": "¿En qué país nació el judo?",
+    "opciones": ["China", "Corea del Sur", "Japón", "Tailandia"],
+    "correcta": 2,
+    "explicacion": "Jigoro Kano lo creó en 1882. Fue el primer arte marcial japonés en convertirse en deporte olímpico, en Tokio 1964."
+  },
+  {
+    "categoria": "Deportes",
+    "dificultad": "difícil",
+    "pregunta": "¿En qué ciudad se celebraron los Juegos Olímpicos de verano de 1992?",
+    "opciones": ["Atlanta", "Seúl", "Sídney", "Barcelona"],
+    "correcta": 3,
+    "explicacion": "Seúl fue sede en 1988, Atlanta en 1996 y Sídney en 2000. Barcelona 1992 es recordada por su gran impulso a la ciudad."
+  }
+]
